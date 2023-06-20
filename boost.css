@@ -1,0 +1,9 @@
+.btn-radius {
+    border-radius: 0px;
+}
+
+.btn-pink {
+    background-color: rgba(213, 168, 171, 0.7);
+    border: 1px solid rgba(213, 168, 171, 0.7);
+   
+}
